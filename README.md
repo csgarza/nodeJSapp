@@ -2,12 +2,14 @@
 
 GENERAL USAGE NOTES
 -----------------------
-- this is a generic web app cloned from an existing Bluemix project courtesy of Lauren Shaefer.
-	- More details can be found @ https://www.ibm.com/developerworks/cloud/library/cl-deploy-a-hello-world-webpage-to-bluemix-app/
+- this is a generic web app
 
 
 Installation
 ----------------------
-- set your Bluemix project to clone my github repository @ https://github.com/csgarza/BluemixChallenge.git
+- Go to <http://csgarzanodejsapp.mybluemix.net/#> and click to Deploy to Bluemix or click View code
+
+
+- set your Bluemix project to clone my github repository @ https://github.com/csgarza/nodeJSapp.git
 
 
