@@ -17,5 +17,6 @@ or
 references:
 ----------------------
 - https://hub.jazz.net/tutorials/jazzeditor/
+- https://console.ng.bluemix.net/docs/develop/deploy_button.html
 - https://www.ibm.com/developerworks/cloud/library/cl-deploy-a-hello-world-webpage-to-bluemix-app/
 - https://bootstrapmade.com/knight-free-bootstrap-theme/
